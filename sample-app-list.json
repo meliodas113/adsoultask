@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "appName": "WhatsApp Messenger",
+    "publisherName": "WhatsApp LLC"
+  },
+  {
+    "id": "2",
+    "appName": "Facebook",
+    "publisherName": "Facebook"
+  },
+  {
+    "id": "3",
+    "appName": "Google LLC",
+    "publisherName": "Youtube"
+  },
+  {
+    "id": "4",
+    "appName": "Candy Crush Saga",
+    "publisherName": "King"
+  },
+  {
+    "id": "5",
+    "appName": "Clash of Clans",
+    "publisherName": "Supercell"
+  },
+  {
+    "id": "6",
+    "appName": "Call of Duty®: Mobile - Day of Reckoning",
+    "publisherName": "Activision Publishing, Inc"
+  },
+  {
+    "id": "7",
+    "appName": "8 Ball Pool",
+    "publisherName": "Miniclip"
+  },
+  {
+    "id": "8",
+    "appName": "Subway Surfers",
+    "publisherName": "SYBO Games"
+  },
+  {
+    "id": "9",
+    "appName": "Clash Royale",
+    "publisherName": "Supercell"
+  },
+  {
+    "id": "10",
+    "appName": "Asphalt 9: Legends - Epic Car Action Racing Game",
+    "publisherName": "Gameloft SE"
+  }
+]

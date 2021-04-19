@@ -1,0 +1,582 @@
+{
+  "1": [
+    {
+      "date": "15-01-2021",
+      "revenue": 4624,
+      "adRequest": 4529895,
+      "adResponse": 2061524,
+      "impressions": 80000,
+      "clicks": 693231
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 2679,
+      "adRequest": 8316829,
+      "adResponse": 7225168,
+      "impressions": 80000,
+      "clicks": 5173758
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 1802,
+      "adRequest": 1349392,
+      "adResponse": 975736,
+      "impressions": 80000,
+      "clicks": 878459
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 3608,
+      "adRequest": 5760110,
+      "adResponse": 3138006,
+      "impressions": 80000,
+      "clicks": 1627632
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 1296,
+      "adRequest": 9906066,
+      "adResponse": 4358454,
+      "impressions": 80000,
+      "clicks": 1217214
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 1665,
+      "adRequest": 4199708,
+      "adResponse": 3248406,
+      "impressions": 80000,
+      "clicks": 145870
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 977,
+      "adRequest": 8364844,
+      "adResponse": 2138445,
+      "impressions": 80000,
+      "clicks": 1029645
+    }
+  ],
+  "2": [
+    {
+      "date": "15-01-2021",
+      "revenue": 2332,
+      "adRequest": 2463402,
+      "adResponse": 1166731,
+      "impressions": 80000,
+      "clicks": 950537
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 1657,
+      "adRequest": 6529143,
+      "adResponse": 6333394,
+      "impressions": 80000,
+      "clicks": 2893769
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 4225,
+      "adRequest": 6240049,
+      "adResponse": 3883223,
+      "impressions": 80000,
+      "clicks": 510660
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 1004,
+      "adRequest": 6948039,
+      "adResponse": 6257780,
+      "impressions": 80000,
+      "clicks": 842950
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 1595,
+      "adRequest": 6470585,
+      "adResponse": 1359493,
+      "impressions": 80000,
+      "clicks": 705402
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 1019,
+      "adRequest": 6550456,
+      "adResponse": 4410548,
+      "impressions": 80000,
+      "clicks": 2872464
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 5788,
+      "adRequest": 9027471,
+      "adResponse": 3909972,
+      "impressions": 80000,
+      "clicks": 657930
+    }
+  ],
+  "3": [
+    {
+      "date": "15-01-2021",
+      "revenue": 2854,
+      "adRequest": 3500059,
+      "adResponse": 1747279,
+      "impressions": 80000,
+      "clicks": 27689
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 5271,
+      "adRequest": 4726909,
+      "adResponse": 3786621,
+      "impressions": 80000,
+      "clicks": 2581287
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 2144,
+      "adRequest": 7622723,
+      "adResponse": 2222946,
+      "impressions": 80000,
+      "clicks": 592703
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 1719,
+      "adRequest": 7529113,
+      "adResponse": 2180096,
+      "impressions": 80000,
+      "clicks": 767686
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 778,
+      "adRequest": 8133637,
+      "adResponse": 2087769,
+      "impressions": 80000,
+      "clicks": 882307
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 2261,
+      "adRequest": 2013612,
+      "adResponse": 1741790,
+      "impressions": 80000,
+      "clicks": 278469
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 5626,
+      "adRequest": 9609835,
+      "adResponse": 5278965,
+      "impressions": 80000,
+      "clicks": 1912252
+    }
+  ],
+  "4": [
+    {
+      "date": "15-01-2021",
+      "revenue": 1552,
+      "adRequest": 9843588,
+      "adResponse": 6642284,
+      "impressions": 80000,
+      "clicks": 770110
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 3873,
+      "adRequest": 6568439,
+      "adResponse": 3241426,
+      "impressions": 80000,
+      "clicks": 1661
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 2995,
+      "adRequest": 6541705,
+      "adResponse": 965438,
+      "impressions": 80000,
+      "clicks": 307489
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 5683,
+      "adRequest": 1113932,
+      "adResponse": 1029729,
+      "impressions": 80000,
+      "clicks": 544967
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 861,
+      "adRequest": 7407241,
+      "adResponse": 5538667,
+      "impressions": 80000,
+      "clicks": 950794
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 4071,
+      "adRequest": 6314654,
+      "adResponse": 2877928,
+      "impressions": 80000,
+      "clicks": 1308863
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 2606,
+      "adRequest": 1088064,
+      "adResponse": 1027581,
+      "impressions": 80000,
+      "clicks": 663209
+    }
+  ],
+  "5": [
+    {
+      "date": "15-01-2021",
+      "revenue": 2793,
+      "adRequest": 2260017,
+      "adResponse": 2133431,
+      "impressions": 80000,
+      "clicks": 484156
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 4765,
+      "adRequest": 6313162,
+      "adResponse": 5848641,
+      "impressions": 80000,
+      "clicks": 173603
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 1647,
+      "adRequest": 7931115,
+      "adResponse": 1090048,
+      "impressions": 80000,
+      "clicks": 568787
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 4309,
+      "adRequest": 2990463,
+      "adResponse": 2234044,
+      "impressions": 80000,
+      "clicks": 307501
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 4667,
+      "adRequest": 7130551,
+      "adResponse": 6844292,
+      "impressions": 80000,
+      "clicks": 2204250
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 2105,
+      "adRequest": 9460860,
+      "adResponse": 5916028,
+      "impressions": 80000,
+      "clicks": 3029702
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 5098,
+      "adRequest": 6940950,
+      "adResponse": 6249765,
+      "impressions": 80000,
+      "clicks": 1227711
+    }
+  ],
+  "6": [
+    {
+      "date": "15-01-2021",
+      "revenue": 648,
+      "adRequest": 6357166,
+      "adResponse": 6052314,
+      "impressions": 80000,
+      "clicks": 3473201
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 5435,
+      "adRequest": 8453516,
+      "adResponse": 5873681,
+      "impressions": 80000,
+      "clicks": 319972
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 4001,
+      "adRequest": 1969770,
+      "adResponse": 1951173,
+      "impressions": 80000,
+      "clicks": 205380
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 5892,
+      "adRequest": 7284035,
+      "adResponse": 3189937,
+      "impressions": 80000,
+      "clicks": 1401621
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 5004,
+      "adRequest": 2274026,
+      "adResponse": 1479491,
+      "impressions": 80000,
+      "clicks": 580399
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 5981,
+      "adRequest": 1535554,
+      "adResponse": 941553,
+      "impressions": 80000,
+      "clicks": 281353
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 3769,
+      "adRequest": 7669286,
+      "adResponse": 2535829,
+      "impressions": 80000,
+      "clicks": 1637481
+    }
+  ],
+  "7": [
+    {
+      "date": "15-01-2021",
+      "revenue": 1583,
+      "adRequest": 6200052,
+      "adResponse": 4804781,
+      "impressions": 80000,
+      "clicks": 1703446
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 2994,
+      "adRequest": 9986673,
+      "adResponse": 6630977,
+      "impressions": 80000,
+      "clicks": 4677846
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 3833,
+      "adRequest": 9479942,
+      "adResponse": 2406118,
+      "impressions": 80000,
+      "clicks": 1370354
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 4715,
+      "adRequest": 2517214,
+      "adResponse": 1582358,
+      "impressions": 80000,
+      "clicks": 153067
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 3525,
+      "adRequest": 3168409,
+      "adResponse": 1868024,
+      "impressions": 80000,
+      "clicks": 700752
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 5651,
+      "adRequest": 6436139,
+      "adResponse": 921160,
+      "impressions": 80000,
+      "clicks": 734268
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 5397,
+      "adRequest": 6436992,
+      "adResponse": 3153617,
+      "impressions": 80000,
+      "clicks": 806940
+    }
+  ],
+  "8": [
+    {
+      "date": "15-01-2021",
+      "revenue": 4857,
+      "adRequest": 8466165,
+      "adResponse": 7669164,
+      "impressions": 80000,
+      "clicks": 91428
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 2793,
+      "adRequest": 2208861,
+      "adResponse": 2187904,
+      "impressions": 80000,
+      "clicks": 976774
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 2342,
+      "adRequest": 7915301,
+      "adResponse": 2801054,
+      "impressions": 80000,
+      "clicks": 163215
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 1341,
+      "adRequest": 6331844,
+      "adResponse": 1247384,
+      "impressions": 80000,
+      "clicks": 585169
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 4897,
+      "adRequest": 7478217,
+      "adResponse": 5878539,
+      "impressions": 80000,
+      "clicks": 318059
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 4466,
+      "adRequest": 6650221,
+      "adResponse": 3527918,
+      "impressions": 80000,
+      "clicks": 791523
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 3909,
+      "adRequest": 8623204,
+      "adResponse": 4166828,
+      "impressions": 80000,
+      "clicks": 908568
+    }
+  ],
+  "9": [
+    {
+      "date": "15-01-2021",
+      "revenue": 5925,
+      "adRequest": 1694348,
+      "adResponse": 959066,
+      "impressions": 80000,
+      "clicks": 307213
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 1303,
+      "adRequest": 1452380,
+      "adResponse": 1163545,
+      "impressions": 80000,
+      "clicks": 242672
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 4741,
+      "adRequest": 6142004,
+      "adResponse": 1833067,
+      "impressions": 80000,
+      "clicks": 582786
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 4362,
+      "adRequest": 8865284,
+      "adResponse": 8251011,
+      "impressions": 80000,
+      "clicks": 2130107
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 1039,
+      "adRequest": 1365500,
+      "adResponse": 1010747,
+      "impressions": 80000,
+      "clicks": 493816
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 4662,
+      "adRequest": 2946302,
+      "adResponse": 1530428,
+      "impressions": 80000,
+      "clicks": 177055
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 2935,
+      "adRequest": 2122998,
+      "adResponse": 1977948,
+      "impressions": 80000,
+      "clicks": 575929
+    }
+  ],
+  "10": [
+    {
+      "date": "15-01-2021",
+      "revenue": 2627,
+      "adRequest": 2567243,
+      "adResponse": 1924075,
+      "impressions": 80000,
+      "clicks": 188337
+    },
+    {
+      "date": "16-01-2021",
+      "revenue": 4229,
+      "adRequest": 2011428,
+      "adResponse": 1966198,
+      "impressions": 80000,
+      "clicks": 287692
+    },
+    {
+      "date": "17-01-2021",
+      "revenue": 1129,
+      "adRequest": 3834757,
+      "adResponse": 3568136,
+      "impressions": 80000,
+      "clicks": 2452983
+    },
+    {
+      "date": "18-01-2021",
+      "revenue": 3829,
+      "adRequest": 6629323,
+      "adResponse": 4742215,
+      "impressions": 80000,
+      "clicks": 87456
+    },
+    {
+      "date": "19-01-2021",
+      "revenue": 4772,
+      "adRequest": 6540946,
+      "adResponse": 5605518,
+      "impressions": 80000,
+      "clicks": 645661
+    },
+    {
+      "date": "20-01-2021",
+      "revenue": 3001,
+      "adRequest": 8335028,
+      "adResponse": 5903251,
+      "impressions": 80000,
+      "clicks": 3199830
+    },
+    {
+      "date": "21-01-2021",
+      "revenue": 1197,
+      "adRequest": 5693538,
+      "adResponse": 4099223,
+      "impressions": 80000,
+      "clicks": 537882
+    }
+  ]
+}
