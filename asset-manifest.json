@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/adsoultask/static/css/main.fad3f30a.chunk.css",
+    "main.js": "/adsoultask/static/js/main.67a0834a.chunk.js",
+    "main.js.map": "/adsoultask/static/js/main.67a0834a.chunk.js.map",
+    "runtime-main.js": "/adsoultask/static/js/runtime-main.8a35be68.js",
+    "runtime-main.js.map": "/adsoultask/static/js/runtime-main.8a35be68.js.map",
+    "static/js/2.260090ed.chunk.js": "/adsoultask/static/js/2.260090ed.chunk.js",
+    "static/js/2.260090ed.chunk.js.map": "/adsoultask/static/js/2.260090ed.chunk.js.map",
+    "index.html": "/adsoultask/index.html",
+    "static/css/main.fad3f30a.chunk.css.map": "/adsoultask/static/css/main.fad3f30a.chunk.css.map",
+    "static/js/2.260090ed.chunk.js.LICENSE.txt": "/adsoultask/static/js/2.260090ed.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/adsoultask/static/media/asset1.6ce40959.svg",
+    "static/media/icon1.75892e65.svg": "/adsoultask/static/media/icon1.75892e65.svg",
+    "static/media/icon2.2c236833.svg": "/adsoultask/static/media/icon2.2c236833.svg",
+    "static/media/icon3.0d357e94.svg": "/adsoultask/static/media/icon3.0d357e94.svg",
+    "static/media/icon4.39c608a8.svg": "/adsoultask/static/media/icon4.39c608a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a35be68.js",
+    "static/js/2.260090ed.chunk.js",
+    "static/css/main.fad3f30a.chunk.css",
+    "static/js/main.67a0834a.chunk.js"
+  ]
+}
