@@ -2,7 +2,7 @@
   "name": "greedygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://meliodas113.github.io/adsoul",
+  "homepage": "http://meliodas113.github.io/adsoultask",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^5.11.10",
