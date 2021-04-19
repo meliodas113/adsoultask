@@ -1,0 +1,132 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrapper .headerDiv {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  background: #7164ff;
+}
+
+.wrapper .headerDiv span {
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 5px;
+  padding-left: 2.5%;
+}
+
+.tableDiv {
+  width: 100%;
+  height: 90%;
+}
+
+.tableDiv .detailsDiv {
+  width: 100%;
+  height: 20%;
+  background: white;
+  display: flex;
+  align-items: center;
+}
+
+.tableDiv .detailsDiv .logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+  margin-left: 2%;
+}
+
+.tableDiv .detailsDiv .backBtn {
+  margin-left: 2%;
+  font-size: 1.7em;
+  color: lightgray;
+  cursor: pointer;
+}
+
+.tableDiv .detailsDiv .details {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 1%;
+}
+
+.tableDiv .detailsDiv .details .name {
+  font-size: 1.7em;
+}
+
+.tableDiv .detailsDiv .details .publisher {
+  color: gray;
+}
+
+.tableDiv .table {
+  width: 100%;
+  height: 80%;
+  overflow: auto;
+}
+
+.tableDiv .table .tableContent {
+  width: 90%;
+  height: 90%;
+  margin: 0 auto;
+  border: 0.1px solid rgb(211, 211, 211);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.tableDiv .table .tableContent th {
+  color: black;
+  padding: 2%;
+  font-weight: inherit;
+}
+
+.tableDiv .table .tableContent tr,
+td {
+  color: grey;
+  padding: 1%;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .tableDiv .detailsDiv {
+    width: 100%;
+    height: 15%;
+  }
+  .tableDiv .detailsDiv .logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 5%;
+  }
+  .tableDiv .detailsDiv .details {
+    margin-left: 2%;
+  }
+  .tableDiv .detailsDiv .details .name {
+    font-size: 1.5em;
+  }
+  .tableDiv .detailsDiv .details .publisher {
+    font-size: 0.7em;
+  }
+  .tableDiv .table .tableContent {
+    width: 95%;
+    border-radius: 10px;
+  }
+  .tableDiv .table .tableContent th {
+    font-size: 0.9em;
+    padding: 1%;
+  }
+  .tableDiv .table {
+    display: flex;
+    align-items: center;
+    overflow: auto;
+  }
+  .tableDiv .table .tableContent tr,
+  td {
+    font-size: 0.7em;
+    font-weight: bold;
+    padding: 0;
+  }
+}
