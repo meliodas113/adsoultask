@@ -94,7 +94,11 @@ function Statistics() {
                         <td>{item.adRequest}</td>
                         <td>{item.impressions}</td>
                         <td>{item.clicks}</td>
-                        <td>{100}</td>
+                        <td>
+                          {Math.round(
+                            (item.adResponse / item.impressions) * 100
+                          )}
+                        </td>
                       </tr>
                     );
                   });
